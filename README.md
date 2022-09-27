@@ -5,7 +5,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivalatha800&label=Profile%20views&color=0e56b4&style=plastic" alt="sivalatha800" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Angular Developer Fresher **Angular**
 
 - 📝 I regularly write articles on [https://www.teluguplanet.in/](https://www.teluguplanet.in/)
 
